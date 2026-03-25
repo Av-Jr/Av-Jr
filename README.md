@@ -1,5 +1,8 @@
 <h1 align="center">Aryansh Vashishtha (AV)</h1>
-<h3 align="center">Full-Stack Architect | AI & Robotics Engineer</h3>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=>+Initiating+AV_Protocol...;>+Full-Stack+Architect;>+AI+%26+Robotics+Engineer;>+C%2B%2B+Problem+Solver;>+System+Status:+Optimal" alt="Typing SVG" />
+</div>
 
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OGtyNW1wNDBxem5venhkeXhwNnZpbnUwcHFvaWJhbTFobW1hbzlwYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rccJYeZQvrWsRFeRQz/giphy.gif" alt="Iron Man HUD GIF" />
@@ -19,7 +22,7 @@
   </a>
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" width="100%"/>
 
 ### 🚀 System Diagnostics: About Me
 
@@ -27,9 +30,9 @@ Operating in my **3rd year of college**, I specialize in building high-performan
 
 - 🧠 **Current Focus:** Advanced Data Structures & Algorithms, C++ optimization, and engineering robust web architectures.
 - ⚡ **The Arsenal:** React 19, Node.js, Express, Python, OpenCV, and a heavy dose of problem-solving.
-- 🦾 **Offline Mode:** Football, Robotics, and appreciating a well-deployed War Machine suit.
+- 🦾 **Offline Mode:** Football, Robotics, and building things that actually matter.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" width="100%"/>
 
 ### 💼 Active Directives (Featured Projects)
 
@@ -42,7 +45,7 @@ Here is a look at the current systems running in my mainframe:
 | **[Wake-Watch](https://github.com/Av-Jr/Wake-Watch)** | A real-time road safety monitoring system utilizing OpenCV and Haar Cascade classifiers to detect driver fatigue and issue visual alerts. | `Python` `OpenCV` |
 | **[Triumph-Archive](https://github.com/Av-Jr/Triumph-Archive)** | A secure data management and cross-platform accessibility tool featuring a modern frontend and robust backend architecture. | `React 19` `Express` |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" width="100%"/>
 
 ### 🛠️ The Tech Arsenal
 
@@ -75,7 +78,7 @@ Here is a look at the current systems running in my mainframe:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="50" alt="amazonwebservices logo"  />
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" width="100%"/>
 
 ### 📊 Tactical Telemetry (GitHub Stats)
 
@@ -98,7 +101,14 @@ Here is a look at the current systems running in my mainframe:
   </picture>
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" width="100%"/>
+
+<div align="center">
+  <blockquote>
+    <i>"Next time, baby."</i> — Lieutenant Colonel James Rhodes (War Machine) <br>
+    <b>Protocol Status: Online. Ready to deploy.</b>
+  </blockquote>
+</div>
 
 <div>
   <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
