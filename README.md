@@ -1,7 +1,7 @@
 <table width="100%">
   <tr>
     <td width="20%" align="center" valign="center">
-      <h1>AV</h1>
+      <h1>Av-Jr</h1>
     </td>
     <td width="80%" align="center" valign="center">
       <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=F8F8F2&center=true&vCenter=true&width=600&lines=>+Full-Stack+Architect;>+AI+%26+Robotics+Engineer;>+C%2B%2B+Problem+Solver;>+System+Status:+Optimal" alt="Typing SVG" />
