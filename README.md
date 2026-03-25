@@ -57,7 +57,7 @@
       - 🦾 <b>Offline Mode:</b> Football, Robotics, and building things that actually matter.
     </td>
     <td width="40%" align="center" valign="center">
-      <img height="180" src="https://wallpapers-clan.com/wp-content/uploads/2024/08/dc-comics-batman-rain-gif-desktop-wallpaper-preview.gif" alt="Iron Man HUD GIF" />
+      <img height="180" src="https://64.media.tumblr.com/72983cdb4492cdf2d6bde233e050b106/tumblr_n6bvd8orqp1s4vw07o5_250.gif" alt="Iron Man HUD GIF" />
     </td>
   </tr>
 </table>
