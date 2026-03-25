@@ -1,8 +1,8 @@
-<h1 align="center">AV</h1>
-<h3 align="center">Innovator | Full-Stack Developer | Robotics & AI Enthusiast</h3>
+<h1 align="center">Aryansh Vashishtha (AV)</h1>
+<h3 align="center">Full-Stack Architect | AI & Robotics Engineer</h3>
 
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OGtyNW1wNDBxem5venhkeXhwNnZpbnUwcHFvaWJhbTFobW1hbzlwYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rccJYeZQvrWsRFeRQz/giphy.gif" alt="Iron Man GIF" />
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OGtyNW1wNDBxem5venhkeXhwNnZpbnUwcHFvaWJhbTFobW1hbzlwYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rccJYeZQvrWsRFeRQz/giphy.gif" alt="Iron Man HUD GIF" />
 </div>
 
 <br/>
@@ -23,17 +23,30 @@
 
 ### 🚀 System Diagnostics: About Me
 
-Operating in my **3rd year of college**, I specialize in bridging the gap between hardware and software. Whether I'm designing complex Data Structures and Algorithms, building full-stack web platforms, or tinkering with robotics, I build systems that solve real problems. 
+Operating in my **3rd year of college**, I specialize in building high-performance, scalable systems and bridging the gap between software and hardware. When I'm not optimizing algorithms or deploying full-stack platforms, you can find me on the football pitch or upgrading my robotics knowledge.
 
-- 💻 **Current Primary Directives:** Architecting a comprehensive **Full-Stack Online Examination System** (React, Node.js, Express) and developing a computer-vision-based **Driver Drowsiness Detection System**.
-- 🧠 **Upgrading Arsenal:** Deep-diving into DSA hackathons, K-Means clustering algorithms, and advanced C++ problem-solving.
-- ⚡ **Offline Mode:** When I'm away from the terminal, you'll find me dominating on the football pitch or repping War Machine.
+- 🧠 **Current Focus:** Advanced Data Structures & Algorithms, C++ optimization, and engineering robust web architectures.
+- ⚡ **The Arsenal:** React 19, Node.js, Express, Python, OpenCV, and a heavy dose of problem-solving.
+- 🦾 **Offline Mode:** Football, Robotics, and appreciating a well-deployed War Machine suit.
+
+---
+
+### 💼 Active Directives (Featured Projects)
+
+Here is a look at the current systems running in my mainframe:
+
+| Project | Designation | Tech Stack |
+| :--- | :--- | :--- |
+| **[UNIV-Platform](https://github.com/Av-Jr/UNIV-Platform)** | An integrated online examination and classroom management system. Designed to enable teachers to manage cohorts while students engage with assessments. | `React 19` `Node.js` `Express` |
+| **[InsightFlow](https://github.com/Av-Jr/InsightFlow)** | A full-stack automated data analysis platform that transforms raw business CSV files into visual financial and inventory metrics. | `React 19` `Python` `Pandas` |
+| **[Wake-Watch](https://github.com/Av-Jr/Wake-Watch)** | A real-time road safety monitoring system utilizing OpenCV and Haar Cascade classifiers to detect driver fatigue and issue visual alerts. | `Python` `OpenCV` |
+| **[Triumph-Archive](https://github.com/Av-Jr/Triumph-Archive)** | A secure data management and cross-platform accessibility tool featuring a modern frontend and robust backend architecture. | `React 19` `Express` |
 
 ---
 
 ### 🛠️ The Tech Arsenal
 
-**Core Languages & Frameworks**
+**Core Languages & Algorithms**
 <div align="left">
   <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cplusplus logo"  />
   <img width="10" />
@@ -44,7 +57,7 @@ Operating in my **3rd year of college**, I specialize in bridging the gap betwee
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="50" alt="kotlin logo"  />
 </div>
 
-**Full-Stack Development**
+**Full-Stack & Frontend Engineering**
 <div align="left">
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="50" alt="react logo"  />
   <img width="10" />
