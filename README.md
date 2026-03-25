@@ -83,12 +83,18 @@ Here is a look at the current systems running in my mainframe:
 ### 📊 Tactical Telemetry (GitHub Stats)
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Av-Jr&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Av-Jr&radius=16&area=true&hide_border=true&bg_color=0D1117&color=00FFCC&line=00FFCC&point=FFFFFF&area_color=00FFCC&title_color=00FFCC&area=true" height="300" alt="activity-graph graph"  />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Av-Jr&show_icons=true&hide_border=true&title_color=00FFCC&icon_color=00FFCC&bg_color=0D1117&text_color=F8F8F2" height="165" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Av-Jr&hide_border=true&title_color=00FFCC&icon_color=00FFCC&bg_color=0D1117&text_color=F8F8F2&sideLabels=F8F8F2&sideNums=00FFCC&currStreakNum=00FFCC&ring=00FFCC&fire=00FFCC" height="165" alt="streak graph"  />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Av-Jr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="160" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Av-Jr&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="160" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Av-Jr&layout=compact&langs_count=5&hide_border=true&title_color=00FFCC&icon_color=00FFCC&bg_color=0D1117&text_color=F8F8F2" height="165" alt="languages graph"  />
 </div>
 
 ### 👾 Contribution Matrix
@@ -101,12 +107,9 @@ Here is a look at the current systems running in my mainframe:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" width="100%"/>
 
-<div align="center">
-  <blockquote>
-    <i>"Next time, baby."</i> — Lieutenant Colonel James Rhodes (War Machine) <br>
-    <b>Protocol Status: Online. Ready to deploy.</b>
-  </blockquote>
-</div>
+> <div align="center">
+>  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=4000&color=F8F8F2&center=true&vCenter=true&width=800&lines=%22Next+time,+baby.%22+-+War+Machine;%22Sometimes+you+gotta+run+before+you+can+walk.%22+-+Iron+Man;%22It's+not+who+I+am+underneath,+but+what+I+do+that+defines+me.%22+-+Batman;%22Sir,+I+have+upgraded+the+system.%22+-+J.A.R.V.I.S." alt="Dynamic Quotes" />
+> </div>
 
 <div>
   <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
