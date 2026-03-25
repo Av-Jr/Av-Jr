@@ -1,7 +1,7 @@
-<h1 align="center">Aryansh Vashishtha (AV)</h1>
+<h1 align="center">AV</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=>+Initiating+AV_Protocol...;>+Full-Stack+Architect;>+AI+%26+Robotics+Engineer;>+C%2B%2B+Problem+Solver;>+System+Status:+Optimal" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=F8F8F2&center=true&vCenter=true&width=600&lines=>+Full-Stack+Architect;>+AI+%26+Robotics+Engineer;>+C%2B%2B+Problem+Solver;>+System+Status:+Optimal" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -94,11 +94,9 @@ Here is a look at the current systems running in my mainframe:
 ### 👾 Contribution Matrix
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Av-Jr/Av-Jr/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Av-Jr/Av-Jr/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Av-Jr/Av-Jr/output/pacman-contribution-graph.svg">
-  </picture>
+  <a href="https://github.com/Av-Jr">
+    <img src="https://ghchart.rshah.org/00FFCC/Av-Jr" alt="AV's GitHub Contribution Chart" width="800" />
+  </a>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" width="100%"/>
